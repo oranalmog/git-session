@@ -8,3 +8,5 @@ def calculate_median(numbers):
 data = [1, 2, 3, 4, 5]
 median = calculate_median(data)
 print(f"Median: {median}")
+
+if(1)
